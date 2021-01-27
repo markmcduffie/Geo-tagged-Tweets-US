@@ -5,5 +5,6 @@ The distribution of tweet throughout the map i logical, as clusters of tweets we
 such as Los Angeles and New York. Additionally, there were little to no tweets coming from sparsely populated places such as 
 middle America and Alaska. Overall I think that the longer we collect tweets, the more the map will look exactly like 
 the population distribution of the United States.
-![](/img/twitter map image.png)
+
+![](img/twitter map image.png)
 
