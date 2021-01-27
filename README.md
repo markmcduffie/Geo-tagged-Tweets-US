@@ -6,5 +6,9 @@ such as Los Angeles and New York. Additionally, there were little to no tweets c
 middle America and Alaska. Overall I think that the longer we collect tweets, the more the map will look exactly like 
 the population distribution of the United States.
 
+<<<<<<< HEAD
 ![](img/tweet_map.png)
+=======
+![](img/map.png)
+>>>>>>> e35e0f28891a4ea4a33753f1a2e76e2653abbc1e
 
